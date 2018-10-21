@@ -1,2 +1,2 @@
 # python_datastructs
-repo for creating datastructures from scratch in python
+repo for creating datastructures from scratch in python.
